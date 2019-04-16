@@ -22,7 +22,7 @@
   ],
   "devDependencies": {
     "babel-cli": "^6.7.5",
-    "babel-plugin-add-module-exports": "^0.3.1",
+    "babel-plugin-add-module-exports": "^1.0.1",
     "babel-plugin-transform-es2015-modules-commonjs": "^6.7.4",
     "babel-plugin-transform-es2015-parameters": "^6.7.0",
     "babel-plugin-transform-es2015-spread": "^6.6.5",
